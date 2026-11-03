@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "inference-slo"
+message: "If you use this software, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: Baby
+    given-names: Ajin
+    orcid: "https://orcid.org/0009-0007-6190-9516"
+repository-code: "https://github.com/ajinb/inference-slo"
+url: "https://cloudandsre.com"
+abstract: "SLO-aware admission control for LLM inference serving \u2014 a deterministic replay harness for what to shed, when, and against which SLO when accelerators saturate. Companion to the Gateway API Inference Extension."
+license: Apache-2.0
+version: "0.1.0"
+date-released: "2026-11-03"
+keywords:
+  - llm-inference
+  - slo
+  - admission-control
+  - gateway-api
+  - kubernetes
